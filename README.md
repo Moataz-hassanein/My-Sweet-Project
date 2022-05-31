@@ -16,10 +16,10 @@
 
 ## Supported operating system
 
-[x] Windows
-[X] Linux
-[X] IOS
-[ ] Android
+- [x] Windows
+- [X] Linux
+- [X] IOS
+- [ ] Android
 
 ### 1. Linux
 
