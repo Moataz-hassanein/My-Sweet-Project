@@ -38,7 +38,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-*Note*: Use ```-y``` as an argument to accept changes.
+***Note***: _Use_ ```-y``` as an argument to accept changes.
 
 
 #### 3. Reload Services.
